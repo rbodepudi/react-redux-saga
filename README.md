@@ -1,7 +1,7 @@
 Steps to start the app
 
 
-1. Go to react-redux folder 
+1. Go to react-redux-saga folder 
 
 2. do npm install
 

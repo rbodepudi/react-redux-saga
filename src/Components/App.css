@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+}
+
+.Text-area {
+  width: 80%;
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.Text{
+  width: 70%;
+  height: 40px;
+  font-size: 1.53em;
+}
+
+.Button{
+  width: 30%;
+  height: 46px;
+  background-color: transparent;
+  border: 1px solid grey;
+  font-size: 18px;
+}
+
+
+.Dropdown-area {
+  width:80%;
+  height: 50px;
+  text-align: left;
+  display:inline-block;
+  position: relative;
+}
+
+.List {
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+  list-style: none;
+  padding-left: 10px;
+  margin-top: 0px;
+  width: 69%;
+  position: absolute;
+  z-index: 1
+}
+
+.List li {
+  line-height: 30px;
+}
+
